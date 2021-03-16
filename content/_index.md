@@ -21,9 +21,11 @@ Enjoy this portfolio and perhaps - talk to you soon!
 
 ***
 
-Have we caught your attention? We appreciate your feedback at this early stage of our product. Do not hesitate to contact us. In fact, if you're interested, we'd love to give you a tour of the prototype we built.
+# I created
 
-{{< contact_form id="contact-form" placeholder_name="Name" placeholder_email="Email Address" placeholder_message="Message" button_label="Send ✉️">}}
+## A book - _Learn Your English_
+
+I wrote this book to summarize my experience in teaching English. It's a guide on how to learn and improve your English skills on your own. The book focuses on the psychological and technological aspects of learning a language. It was published in 2020 and now can be found in most book shops around Lithuania.
 
 ***
 
