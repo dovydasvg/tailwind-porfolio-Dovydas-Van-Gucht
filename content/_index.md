@@ -15,7 +15,7 @@ teaser_image: ''
 
 I'm a human, who wants to create and make the world a better place. I materialize this by developing useful products and teaching others. 💡
 
-I'm a strong believer in life-long learning, therefore if you've got something interesting to share - [jot me a line](#contact). 🖊️
+I'm a strong believer in life-long learning, therefore if you've got something interesting to share - [jot me a line](#contact-me). 🖊️
 
 Enjoy this portfolio and perhaps - talk to you soon!
 
@@ -45,4 +45,4 @@ We take data privacy very seriously, so we make sure not to store anything we do
 
 # Stay in touch
 
-You can find me on:
+{{< span id="contact-me"></span >}}You can find me on:
