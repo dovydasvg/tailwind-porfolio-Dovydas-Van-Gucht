@@ -45,4 +45,4 @@ We take data privacy very seriously, so we make sure not to store anything we do
 
 # Stay in touch
 
-{{< id='contact' >}} You can find me on:
+{{< div id='contact' >}} You can find me on:
