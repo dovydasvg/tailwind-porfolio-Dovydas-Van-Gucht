@@ -15,7 +15,11 @@ teaser_image: ''
 
 I'm a human, who wants to create and make the world a better place. I materialize this by developing useful products and teaching others. 💡
 
-### Values:
+### I care to
+
+* **Deliver, no excuses.** It might not be perfect but it must be delivered.
+* **Keep it simple.** Focus on making things work, don't overcomplicate it.
+* **Take time to understand.** 
 
 I'm a strong believer in life-long learning, therefore if you've got something interesting to share - [jot me a line](#stay-in-touch). 🖊️
 
@@ -25,7 +29,7 @@ Enjoy this portfolio and perhaps - talk to you soon!
 
 # What do I know?
 
-Besides various lifehacks, I've got some sellable knowledge/skills and here they are.
+Besides various lifehacks, I've got some sellable knowledge/skills - here they are.
 
 ## Full-Stack Development
 
