@@ -1,14 +1,12 @@
 ---
-header_brand: "\U0001F4BB Dovydas Van Gucht \U0001F4BB"
-header_tagline_paragraph: Yes, we are glad you made it here. In fact, the only emotion
-  stronger than our gladness is our desire to tell you more about what we are building.
-  Bright times lie ahead. Let's get into it!
+header_brand: Dovydas Van Gucht
+header_tagline_paragraph: Full-stack developer | Entrepreneur | Writer | Teacher
 header_button_cta:
   url: "#contact-form"
-  title: Get in touch
+  title: I created
 header_button_more:
   url: "#the-future---today"
-  title: Why this is awesome?
+  title: I'm proud of
 teaser_image: ''
 
 ---
