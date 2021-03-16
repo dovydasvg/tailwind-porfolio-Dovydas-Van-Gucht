@@ -35,11 +35,21 @@ Besides various lifehacks, I've got some sellable knowledge/skills - here they a
 
 ### PHP / Laravel
 
+Why?
+
 ### VueJS
+
+### Typescript
 
 ### HUGO
 
 ### WordPress
+
+## Teaching
+
+## Business Development
+
+## Writing
 
 ***
 
