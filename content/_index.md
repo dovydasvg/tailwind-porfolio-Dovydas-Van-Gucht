@@ -45,4 +45,6 @@ We take data privacy very seriously, so we make sure not to store anything we do
 
 # Stay in touch
 
-{{< contact_me >}}  <p> Testing </p> {{< /contact_me >}}You can find me on:
+    <p> Trying to make it work </p>
+
+You can find me on:
