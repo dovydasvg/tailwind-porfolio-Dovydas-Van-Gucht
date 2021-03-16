@@ -21,7 +21,7 @@ Enjoy this portfolio and perhaps - talk to you soon!
 
 ***
 
-Have we caught your attention? We appreciate your feedback at this early stage of our product. Do not hesitate to contact us. In fact, if your interested, we'd love to give you a tour of the prototype we built.
+Have we caught your attention? We appreciate your feedback at this early stage of our product. Do not hesitate to contact us. In fact, if you're interested, we'd love to give you a tour of the prototype we built.
 
 {{< contact_form id="contact-form" placeholder_name="Name" placeholder_email="Email Address" placeholder_message="Message" button_label="Send ✉️">}}
 
@@ -45,4 +45,4 @@ We take data privacy very seriously, so we make sure not to store anything we do
 
 # Stay in touch
 
-{{< div id="contact" >}} You can find me on:
+You can find me on:
