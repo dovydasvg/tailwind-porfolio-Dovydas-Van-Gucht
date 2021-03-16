@@ -13,7 +13,11 @@ teaser_image: ''
 ---
 # Who am I?
 
-I'm a human, who wants to create and make the world a better place. I materialize this by developing useful products and teaching others. I'm a strong believer in life-long learning, therefore if you've got something interesting to share - jot me a line. Here in this portfolio, you'll find my projects, ups, and downs.
+I'm a human, who wants to create and make the world a better place. I materialize this by developing useful products and teaching others. 💡
+
+I'm a strong believer in life-long learning, therefore if you've got something interesting to share - [jot me a line](#contact). 🖊️
+
+Enjoy this portfolio and perhaps - talk to you soon!
 
 ***
 
