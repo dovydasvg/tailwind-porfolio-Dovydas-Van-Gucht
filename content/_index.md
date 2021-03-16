@@ -9,7 +9,7 @@ header_button_cta:
 header_button_more:
   url: "#the-future---today"
   title: Why this is awesome?
-teaser_image: images/teaser.jpg
+teaser_image: ''
 
 ---
 # Dovydas Van Gucht
