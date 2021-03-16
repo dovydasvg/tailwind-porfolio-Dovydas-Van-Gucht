@@ -45,4 +45,4 @@ We take data privacy very seriously, so we make sure not to store anything we do
 
 # Stay in touch
 
-{{< span id="contact-me"></span >}}You can find me on:
+{{< span id="contact-me" >}} {{< /span >}}You can find me on:
