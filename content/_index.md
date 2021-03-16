@@ -37,31 +37,21 @@ I can create full web apps or a simple website. Let's have a chat to see what wo
 
 ### PHP / Laravel
 
-**Why?**
-
 To manage the backend of applications. Mostly for managing data, but can be used alone for quick MVP making. In combination with Livewire and AlpineJS for one-man projects.
 
 ### VueJS
-
-**Why?**
 
 Currently using Vue 3 in combination with Typescript and Laravel. Using it to create single-page apps.
 
 ### Tailwind CSS
 
-**Why?**
-
 To make things beautiful.
 
 ### HUGO
 
-**Why?**
-
 Perfect for creating static pages and deploy them on Netlify. (Like this page) Using it mostly for my own projects.
 
 ### WordPress
-
-**Why?**
 
 Fantastic CMS - easy to use and simple to install. I use it for landing pages of small businesses that want to have a CMS.
 
@@ -130,7 +120,3 @@ I'm writing a book about how to sell your ideas in the market and things that I'
 # Stay in touch
 
 You can find me on:
-
-\[!\[Alt Text\](Image URL)\](Link URL)
-
-![](/github-brands.png)![](/linkedin-brands.png)![](/medium-brands.png)
