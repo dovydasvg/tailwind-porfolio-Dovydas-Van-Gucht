@@ -19,7 +19,7 @@ I'm a human, who wants to create and make the world a better place. I materializ
 
 * **Deliver, no excuses.** It might not be perfect but it must be delivered.
 * **Keep it simple.** Focus on making things work, don't overcomplicate it.
-* **Take time to understand.** 
+* **Take time to understand.** Don't rush into conclusions or building. Understanding your client and your product takes time - take it.
 
 I'm a strong believer in life-long learning, therefore if you've got something interesting to share - [jot me a line](#stay-in-touch). 🖊️
 
@@ -51,7 +51,7 @@ It's a simple course management system to showcase my knowledge in Laravel and L
 
 ## a book - _Learn Your English_
 
-I wrote this book to summarize my experience in teaching English. It's a guide on how to learn and improve your English skills on your own. The book focuses on the psychological and technological aspects of learning a language. It was published in 2020 and now can be found in most book shops around Lithuania.
+I wrote this book to summarize my experience in teaching English. It's a guide on how to learn and improve your English skills on your own. The book focuses on the psychological and technological aspects of learning a language. It was published in 2020 and now [can be found](https://www.knygos.lt/lt/knygos/learn-your-english--paskutine-knyga--kurios-tau-reikes-mokantis-anglu-kalbos/) in most book shops around Lithuania.
 
 ## a startup - _12classrooms_
 
