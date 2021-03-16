@@ -53,8 +53,6 @@ We take data privacy very seriously, so we make sure not to store anything we do
 
 ***
 
-# Personal newsletter
+# Stay in touch
 
-Let's stay in touch. Sign up for my newsletter. I'll update you with interesting findings, thoughts, and articles from my side. Maybe once a month, maybe once a quarter - we'll see.
-
-{{< newsletter_sign_up id="newsletter-sign-up-form" placeholder_email="Your Email" button_label="Sign up">}}
+{{< id='contact' >}} You can find me on:
