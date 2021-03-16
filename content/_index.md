@@ -6,7 +6,7 @@ header_button_cta:
   url: "#contact-form"
   title: I created
 header_button_more:
-  url: "#the-future---today"
+  url: "#"
   title: I'm creating
 teaser_image: ''
 
