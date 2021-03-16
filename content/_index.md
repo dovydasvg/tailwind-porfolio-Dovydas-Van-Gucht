@@ -35,17 +35,31 @@ Besides various lifehacks, I've got some sellable knowledge/skills - here they a
 
 ### PHP / Laravel
 
-Why?
+**Why?**
+
+To manage the backend of applications. Mostly for managing data, but can be used alone for quick MVP making. In combination with Livewire and AlpineJS for one-man projects.
 
 ### VueJS
 
-### Typescript
+**Why?**
+
+Currently using Vue 3 in combination with Typescript and Laravel. Using it to create single-page apps.
 
 ### HUGO
 
+**Why?**
+
+Perfect for creating static pages and deploy them on Netlify. (Like this page) Using it mostly for my own projects.
+
 ### WordPress
 
+**Why?**
+
+Fantastic CMS - easy to use and simple to install. I use it for landing pages of small businesses that want to have a CMS.
+
 ## Teaching
+
+I teach English and Business. I primarily worked with adults and teenagers. Wonderful job to learn patience and understand human psychology.
 
 ## Business Development
 
