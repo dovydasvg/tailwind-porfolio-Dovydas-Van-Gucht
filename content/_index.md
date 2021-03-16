@@ -6,7 +6,7 @@ header_button_cta:
   url: "#i-created"
   title: I created
 header_button_more:
-  url: "#"
+  url: "#im-creating"
   title: I'm creating
 teaser_image: ''
 
@@ -31,7 +31,7 @@ Enjoy this portfolio and perhaps - talk to you soon!
 
 Besides various lifehacks, I've got some sellable knowledge/skills - here they are.
 
-## Full-Stack Development
+## 💻Full-Stack Development
 
 I can create full web apps or a simple website. Let's have a chat to see what would be the best option for you. Here are the technologies I love:
 
@@ -55,15 +55,15 @@ Perfect for creating static pages and deploy them on Netlify. (Like this page) U
 
 Fantastic CMS - easy to use and simple to install. I use it for landing pages of small businesses that want to have a CMS.
 
-## Teaching
+## 💡Teaching
 
 I teach English and Business. I primarily work with adults and teenagers. It's a wonderful job to learn patience and understand human psychology.
 
-## Business Development
+## 🚀Business Development
 
 I used to work in business development, had my own startups, and consulted other businesses. I love to get a product from an idea to the market.
 
-## Writing
+## 🖋️Writing
 
 I'm a published/featured author in The Startup and Medium.  I worked as a freelance copywriter to sharpen my skills. To top it up, I wrote my own book about learning English and I'm currently working on my next one.
 
@@ -99,6 +99,12 @@ I wrote this book to summarize my experience in teaching English. It's a guide o
 
 A marketplace startup to connect teachers with students without the intermediary of a school. The project was selected in the WebSummit's Alpha program. It was the full young startup experience - from building it myself to failing to hire others, and lastly understanding that there is no demand for our product.
 
+## a startup
+
+## _Voymigo_
+
+We created beautiful umbrellas for hitchhikers!
+
 ***
 
 # I'm creating
@@ -120,3 +126,9 @@ I'm writing a book about how to sell your ideas in the market and things that I'
 # Stay in touch
 
 You can find me on:
+
+[**Github**](https://github.com/dovydasvg/)
+
+[**Linkedin**](https://www.linkedin.com/in/dovydasvg/)
+
+[**Medium**](https://medium.com/@dovydasvg_38832)
