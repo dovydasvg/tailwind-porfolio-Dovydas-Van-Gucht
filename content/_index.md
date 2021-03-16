@@ -95,6 +95,8 @@ I'm a published/featured author in The Startup and Medium.  I worked as a freela
 
 It's a simple course management system to showcase my knowledge in Laravel and Livewire. I resell the system for businesses that want to sell their courses on their website.
 
+[find it here](https://targetapp312315353.herokuapp.com/)
+
 ## a book
 
 ## _Learn Your English_
@@ -128,3 +130,7 @@ I'm writing a book about how to sell your ideas in the market and things that I'
 # Stay in touch
 
 You can find me on:
+
+\[!\[Alt Text\](Image URL)\](Link URL)
+
+![](/github-brands.png)![](/linkedin-brands.png)![](/medium-brands.png)
