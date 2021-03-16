@@ -2,7 +2,7 @@ baseURL = "https://example.com"
 defaultContentLanguage = "en"
 disableKinds = ["section", "taxonomy", "term", "RSS", "robotsTXT", "404"]
 theme = "hugo-product-launch"
-title = "Dovydas Van Gucht - Full-stack developer"
+title = "DVG - Full-stack developer"
 [markup.goldmark.renderer]
 hardWraps = true
 [params]
