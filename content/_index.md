@@ -27,16 +27,6 @@ Have we caught your attention? We appreciate your feedback at this early stage o
 
 ***
 
-# Prototype
-
-You guessed it! We put our money where our mouth is. This is what we accomplished so far.
-
-![Prototype Work](images/prototype.jpg) <!-- https://www.pexels.com/search/product%20testing/ -->
-
-Check out this sweet preview. Impressed much, are you?
-
-***
-
 # Imprint & Privacy Policy
 
 Let's keep it simple. This is our contact information:
