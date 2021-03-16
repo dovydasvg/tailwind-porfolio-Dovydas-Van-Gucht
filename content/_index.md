@@ -45,6 +45,6 @@ We take data privacy very seriously, so we make sure not to store anything we do
 
 # Stay in touch
 
-    <p> Trying to make it work </p>
+{{< figure >}} <p>Testing</p> {{< /figure >}} 
 
 You can find me on:
