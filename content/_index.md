@@ -33,6 +33,8 @@ Besides various lifehacks, I've got some sellable knowledge/skills - here they a
 
 ## Full-Stack Development
 
+I can create full web apps or a simple website. Let's have a chat to see what would be the best option for you. Here are the technologies I love:
+
 ### PHP / Laravel
 
 **Why?**
@@ -44,6 +46,12 @@ To manage the backend of applications. Mostly for managing data, but can be used
 **Why?**
 
 Currently using Vue 3 in combination with Typescript and Laravel. Using it to create single-page apps.
+
+### Tailwind CSS
+
+**Why?**
+
+To make things beautiful.
 
 ### HUGO
 
@@ -59,25 +67,37 @@ Fantastic CMS - easy to use and simple to install. I use it for landing pages of
 
 ## Teaching
 
-I teach English and Business. I primarily worked with adults and teenagers. Wonderful job to learn patience and understand human psychology.
+I teach English and Business. I primarily work with adults and teenagers. It's a wonderful job to learn patience and understand human psychology.
 
 ## Business Development
 
+I used to work in business development, had my own startups, and consulted other businesses. I love to get a product from an idea to the market.
+
 ## Writing
+
+I'm a published/featured author in The Startup and Medium.  I worked as a freelance copywriter to sharpen my skills. To top it up, I wrote my own book about learning English and I'm currently working on my next one.
 
 ***
 
 # I created
 
-## a course management system - _Klases.lt_
+## a course management system
 
-It's a simple course management system to showcase my knowledge in Laravel and Livewire. I resell the system.
+## _Klases.lt_
 
-## a book - _Learn Your English_
+It's a simple course management system to showcase my knowledge in Laravel and Livewire. I resell the system for businesses that want to sell their courses on their website.
+
+## a book
+
+## _Learn Your English_
 
 I wrote this book to summarize my experience in teaching English. It's a guide on how to learn and improve your English skills on your own. The book focuses on the psychological and technological aspects of learning a language. It was published in 2020 and now [can be found](https://www.knygos.lt/lt/knygos/learn-your-english--paskutine-knyga--kurios-tau-reikes-mokantis-anglu-kalbos/) in most book shops around Lithuania.
 
-## a startup - _12classrooms_
+## a startup
+
+## _12classrooms_
+
+A marketplace startup to connect teachers with students without the intermediary of a school. The project was selected in the WebSummit's Alpha program. It was the full young startup experience - from building it myself to failing to hire others, and lastly understanding that there is no demand for our product.
 
 ***
 
