@@ -1,18 +1,19 @@
 ---
 header_brand: Dovydas Van Gucht
-header_tagline_paragraph: Full-stack developer | Entrepreneur | Writer | Teacher
+header_tagline_paragraph: "Full-stack developer | Entrepreneur | Writer | Teacher\nCurrently
+  looking for a full-time full-stack position. \U0001F50D"
 header_button_cta:
   url: "#contact-form"
   title: I created
 header_button_more:
   url: "#the-future---today"
-  title: I'm proud of
+  title: I'm creating
 teaser_image: ''
 
 ---
-# Dovydas Van Gucht
+# Who am I?
 
-Some introductory text to get you excited about what we are doing. For example, I could tell you what our [prototype](#prototype) can do and then link you to our [contact form](#contact-form) so you can get in touch to ask for a **one-on-one** (or more :-)) showcase session.
+I'm a human, who wants to create and make the world a better place. I materialize this by developing useful products and teaching others. I'm a strong believer in life-long learning, therefore if you've got something interesting to share - jot me a line. Here in this portfolio, you'll find my projects, ups, and downs.
 
 ***
 
