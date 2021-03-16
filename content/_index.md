@@ -77,6 +77,14 @@ I used to work in business development, had my own startups, and consulted other
 
 I'm a published/featured author in The Startup and Medium.  I worked as a freelance copywriter to sharpen my skills. To top it up, I wrote my own book about learning English and I'm currently working on my next one.
 
+## _Hobbies_
+
+**_Wireframing with Figma_**
+
+**_Filming and Editing videos_**
+
+**_Drawing_**
+
 ***
 
 # I created
@@ -101,19 +109,19 @@ A marketplace startup to connect teachers with students without the intermediary
 
 ***
 
-# Imprint & Privacy Policy
+# I'm creating
 
-Let's keep it simple. This is our contact information:
+## a task management system with a healthy twist
 
-Jane Doe
-1093 Simpson Square
-May 73851, OK
-USA
+## _Pomofit_
 
-E-mail: jane@doe.net
-Phone: 580-689-0577
+I'm building a VueJS app to help me stay focused using the Pomodoro method and have healthy breaks to stretch my back and stay healthy.
 
-We take data privacy very seriously, so we make sure not to store anything we do not need. We do not have any tracking service, no cookies or anything like that. If you decide to use the contact form or the newsletter sign up this information will be stored on Netlify, a service we use to host this website. You can approach us any time to have your data removed or simply retrieve information about what information we did store.
+## a book
+
+## _Untitled_
+
+I'm writing a book about how to sell your ideas in the market and things that I've learned that I wish I knew when I left school. It's mostly for teenagers and my sister, who's currently finishing highschool.
 
 ***
 
