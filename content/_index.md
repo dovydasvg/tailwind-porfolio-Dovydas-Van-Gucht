@@ -15,17 +15,41 @@ teaser_image: ''
 
 I'm a human, who wants to create and make the world a better place. I materialize this by developing useful products and teaching others. 💡
 
+### Values:
+
 I'm a strong believer in life-long learning, therefore if you've got something interesting to share - [jot me a line](#stay-in-touch). 🖊️
 
 Enjoy this portfolio and perhaps - talk to you soon!
 
 ***
 
+# What do I know?
+
+Besides various lifehacks, I've got some sellable knowledge/skills and here they are.
+
+## Full-Stack Development
+
+### PHP / Laravel
+
+### VueJS
+
+### HUGO
+
+### WordPress
+
+***
+
 # I created
 
-## A book - _Learn Your English_
+## a course management system - _Klases.lt_
+
+It's a simple course management system to showcase my knowledge in Laravel and Livewire. I resell the system.
+
+## a book - _Learn Your English_
 
 I wrote this book to summarize my experience in teaching English. It's a guide on how to learn and improve your English skills on your own. The book focuses on the psychological and technological aspects of learning a language. It was published in 2020 and now can be found in most book shops around Lithuania.
+
+## a startup - _12classrooms_
 
 ***
 
