@@ -81,7 +81,7 @@ I'm a published/featured author in The Startup and Medium.  I worked as a freela
 
 ## a course management system
 
-## _Klases.lt_
+### _Klases.lt_
 
 It's a simple course management system to showcase my knowledge in Laravel and Livewire. I resell the system for businesses that want to sell their courses on their website.
 
@@ -89,19 +89,19 @@ It's a simple course management system to showcase my knowledge in Laravel and L
 
 ## a book
 
-## _Learn Your English_
+### _Learn Your English_
 
 I wrote this book to summarize my experience in teaching English. It's a guide on how to learn and improve your English skills on your own. The book focuses on the psychological and technological aspects of learning a language. It was published in 2020 and now [can be found](https://www.knygos.lt/lt/knygos/learn-your-english--paskutine-knyga--kurios-tau-reikes-mokantis-anglu-kalbos/) in most book shops around Lithuania.
 
 ## a startup
 
-## _12classrooms_
+### _12classrooms_
 
 A marketplace startup to connect teachers with students without the intermediary of a school. The project was selected in the WebSummit's Alpha program. It was the full young startup experience - from building it myself to failing to hire others, and lastly understanding that there is no demand for our product.
 
 ## a startup
 
-## _Voymigo_
+### _Voymigo_
 
 We created beautiful umbrellas for hitchhikers!
 
@@ -111,13 +111,13 @@ We created beautiful umbrellas for hitchhikers!
 
 ## a task management system with a healthy twist
 
-## _Pomofit_
+### _Pomofit_
 
 I'm building a VueJS app to help me stay focused using the Pomodoro method and have healthy breaks to stretch my back and stay healthy.
 
 ## a book
 
-## _Untitled_
+### _Untitled_
 
 I'm writing a book about how to sell your ideas in the market and things that I've learned that I wish I knew when I left school. It's mostly for teenagers and my sister, who's currently finishing highschool.
 
