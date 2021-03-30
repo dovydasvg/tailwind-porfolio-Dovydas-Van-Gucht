@@ -7,10 +7,10 @@ title = "DVG - Full-stack developer"
 hardWraps = true
 [params]
 copyright = "© Dovydas Van Gucht."
-description = "You don't even know what we can do for you!"
+description = "Full-stack developer | Entrepreneur | Writer | Teacher. 🚀 Freelance full-stack developer in Laravel and VueJS. "
 favicon = "/favicon-32x32.png"
 hidedesignbyline = false
-images = ["images/share-image.png"]
+images = []
 title = "Dovydas Van Gucht - Full-stack developer"
 [params.meta]
-keywords = "some, keywords, for, seo, you, know, google, duckduckgo, and, such"
+keywords = "Dovydas Van Gucht, Full Stack, developer, pomofit, lithuania, php, laravel, hugo"
