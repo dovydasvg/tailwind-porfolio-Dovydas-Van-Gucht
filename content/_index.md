@@ -35,13 +35,9 @@ Besides various lifehacks, I've got some sellable knowledge/skills - here they a
 
 I can create full web apps or a simple website. Let's have a chat to see what would be the best option for you. Here are the technologies I love:
 
-### PHP / Laravel
+### PHP / Laravel + VueJS
 
-To manage the backend of applications. Mostly for managing data, but can be used alone for quick MVP making. In combination with Livewire and AlpineJS for one-man projects.
-
-### VueJS
-
-Currently using Vue 3 in combination with Typescript and Laravel. Using it to create single-page apps.
+To make those beautiful full stack apps! Check out -[ klases.lt]() and [pomofit.com](http://pomofit.com/)
 
 ### Tailwind CSS
 
@@ -79,6 +75,14 @@ I'm a published/featured author in The Startup and Medium.  I worked as a freela
 
 # I created
 
+## a task management system with a healthy twist
+
+### _Pomofit_
+
+A VueJS, running on Netlify, fully static. I'm using it to stay productive and keep stretching.
+
+[find it here]()
+
 ## a course management system
 
 ### _Klases.lt_
@@ -105,19 +109,21 @@ A marketplace startup to connect teachers with students without the intermediary
 
 We created beautiful umbrellas for hitchhikers!
 
+[find it here]()
+
 ***
 
 # I'm creating
 
-## a task management system with a healthy twist
+## a CRM for beauty workers
 
-### _Pomofit_
+### _Untitled_
 
-I'm building a VueJS app to help me stay focused using the Pomodoro method and have healthy breaks to stretch my back and stay healthy.
+I'm building a CRM oriented to help individual beauty workers track their clients, upsell and categorize them. The goal - automate client management to avoid relying on an assistant.
 
 ## a book
 
-### _Untitled_
+### _I want to be... / Repeatable Success_
 
 I'm writing a book about how to sell your ideas in the market and things that I've learned that I wish I knew when I left school. It's mostly for teenagers and my sister, who's currently finishing highschool.
 
