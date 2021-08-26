@@ -1,7 +1,6 @@
 ---
 header_brand: Dovydas Van Gucht
-header_tagline_paragraph: "Full-stack developer | Entrepreneur | Writer | Teacher\nCurrently
-  looking for a full-time full-stack position. \U0001F50D"
+header_tagline_paragraph: Full-stack developer | Entrepreneur | Writer | Teacher
 header_button_cta:
   url: "#i-created"
   title: I created
