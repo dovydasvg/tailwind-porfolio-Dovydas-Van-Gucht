@@ -114,12 +114,6 @@ We created beautiful umbrellas for hitchhikers!
 
 # I'm creating
 
-## a CRM for beauty workers
-
-### _Untitled_
-
-I'm building a CRM oriented to help individual beauty workers track their clients, upsell and categorize them. The goal - automate client management to avoid relying on an assistant.
-
 ## a book
 
 ### _I want to be... / Repeatable Success_
