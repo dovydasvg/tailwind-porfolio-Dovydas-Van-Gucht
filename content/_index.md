@@ -38,7 +38,11 @@ I can create full web apps or a simple website. Let's have a chat to see what wo
 
 To make those beautiful full stack apps! Check out -[ klases.lt]() and [pomofit.com](http://pomofit.com/)
 
-### Tailwind CSS
+### React + NextJS
+
+Although I love Vue, I'd rather choose React for my projects.
+
+### Tailwind CSS / Bootstrap
 
 To make things beautiful.
 
